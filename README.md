@@ -1,4 +1,4 @@
-# 一件刷寫Ruckus switch router密碼與設定
+# 一鍵刷寫Ruckus switch router密碼與設定
 ## 功能
 * 同時大量刷寫200+機器設定
 * 以threading提升同時連線數
